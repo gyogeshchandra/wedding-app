@@ -247,13 +247,25 @@ hr.style_section {
   border-width: 55px 0 0 400px;
   
 }
-.snip1359 .profile {
+.snip1359 .profile-groom {
   border-radius: 50%;
   position: absolute;
   bottom: 100%;
-  left: 25px;
+  left: 10px;
+  top: -120px;
   z-index: 1;
-  max-width: 90px;
+  max-width: 105px;
+  opacity: 1;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+.snip1359 .profile-bride {
+  border-radius: 50%;
+  position: absolute;
+  bottom: 100%;
+  left: 2px;
+  top: -124px;
+  z-index: 1;
+  max-width: 105px;
   opacity: 1;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
 }
