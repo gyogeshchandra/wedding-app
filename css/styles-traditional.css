@@ -254,7 +254,7 @@ hr.style_section {
   left: 10px;
   top: -120px;
   z-index: 1;
-  max-width: 105px;
+  max-width: 102px;
   opacity: 1;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
 }
@@ -265,7 +265,7 @@ hr.style_section {
   left: 2px;
   top: -124px;
   z-index: 1;
-  max-width: 105px;
+  max-width: 102px;
   opacity: 1;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
 }
